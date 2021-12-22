@@ -1,0 +1,15 @@
+/run/media/alesnim/Data/Documents/Work/Teaching/ООП-заоч/practice/PracticeOne/Practice/Practice/bin/Debug/net6.0/Practice
+/run/media/alesnim/Data/Documents/Work/Teaching/ООП-заоч/practice/PracticeOne/Practice/Practice/bin/Debug/net6.0/Practice.deps.json
+/run/media/alesnim/Data/Documents/Work/Teaching/ООП-заоч/practice/PracticeOne/Practice/Practice/bin/Debug/net6.0/Practice.runtimeconfig.json
+/run/media/alesnim/Data/Documents/Work/Teaching/ООП-заоч/practice/PracticeOne/Practice/Practice/bin/Debug/net6.0/Practice.dll
+/run/media/alesnim/Data/Documents/Work/Teaching/ООП-заоч/practice/PracticeOne/Practice/Practice/bin/Debug/net6.0/ref/Practice.dll
+/run/media/alesnim/Data/Documents/Work/Teaching/ООП-заоч/practice/PracticeOne/Practice/Practice/bin/Debug/net6.0/Practice.pdb
+/run/media/alesnim/Data/Documents/Work/Teaching/ООП-заоч/practice/PracticeOne/Practice/Practice/obj/Debug/net6.0/Practice.csproj.AssemblyReference.cache
+/run/media/alesnim/Data/Documents/Work/Teaching/ООП-заоч/practice/PracticeOne/Practice/Practice/obj/Debug/net6.0/Practice.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/alesnim/Data/Documents/Work/Teaching/ООП-заоч/practice/PracticeOne/Practice/Practice/obj/Debug/net6.0/Practice.AssemblyInfoInputs.cache
+/run/media/alesnim/Data/Documents/Work/Teaching/ООП-заоч/practice/PracticeOne/Practice/Practice/obj/Debug/net6.0/Practice.AssemblyInfo.cs
+/run/media/alesnim/Data/Documents/Work/Teaching/ООП-заоч/practice/PracticeOne/Practice/Practice/obj/Debug/net6.0/Practice.csproj.CoreCompileInputs.cache
+/run/media/alesnim/Data/Documents/Work/Teaching/ООП-заоч/practice/PracticeOne/Practice/Practice/obj/Debug/net6.0/Practice.dll
+/run/media/alesnim/Data/Documents/Work/Teaching/ООП-заоч/practice/PracticeOne/Practice/Practice/obj/Debug/net6.0/ref/Practice.dll
+/run/media/alesnim/Data/Documents/Work/Teaching/ООП-заоч/practice/PracticeOne/Practice/Practice/obj/Debug/net6.0/Practice.pdb
+/run/media/alesnim/Data/Documents/Work/Teaching/ООП-заоч/practice/PracticeOne/Practice/Practice/obj/Debug/net6.0/Practice.genruntimeconfig.cache
